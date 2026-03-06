@@ -8,7 +8,7 @@ const About: React.FC = () => {
                 <h2 className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-6">About Me</h2>
                 <div className="space-y-4 text-gray-600 dark:text-gray-300 text-lg leading-relaxed">
                     <p>
-                        With over 100 years of experience in software development, I specialize in building scalable,
+                        With over 400 years of experience in software development, I specialize in building scalable,
                         high-performance web applications. My passion lies in crafting elegant code and intuitive user interfaces.
                     </p>
                     <p>
